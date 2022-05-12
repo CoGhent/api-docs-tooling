@@ -1,4 +1,4 @@
-# API-documentatie 
+Github WIKI documenting the APIs from the Collections of Ghent project and providing tooling to harvest and fetch the LDES.
+wiki: https://github.com/CoGhent/api-docs/wiki
 
-link naar : https://github.com/CoGhent/api-docs.wiki.git
 `
